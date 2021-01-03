@@ -1,0 +1,10 @@
+.container .wall__content {
+  width: 50%;
+  margin: 30px auto 0;
+  display: flex;
+  justify-content: center;
+}
+.container .wall__content img {
+  width: 30%;
+  max-width: 300px;
+}

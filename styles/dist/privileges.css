@@ -1,0 +1,10 @@
+.container .privileges__content {
+  width: 70%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+.container .privileges__content img {
+  width: 30%;
+  max-width: 300px;
+}
